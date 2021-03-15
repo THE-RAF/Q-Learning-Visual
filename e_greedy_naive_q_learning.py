@@ -36,7 +36,7 @@ action_indices = {'left': 0, 'down': 1, 'right': 2, 'up': 3}
 actions = [0, 1, 2, 3]
 
 q_table_shape = list(game.grid_shape + (len(actions),))
-agent = QLearningAgent(q_table_shape=q_table_shape, discount_factor=0.99, learning_rate=0.95, exploration_rate=0.65)
+agent = QLearningAgent(q_table_shape=q_table_shape, discount_factor=1.0, learning_rate=0.5, exploration_rate=0.65)
 
 
 pygame.init()
