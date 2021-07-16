@@ -10,8 +10,8 @@ In the manual version, the agent movement can be controlled by the UP, DOWN, LEF
 
 ## Manual:
 
-https://user-images.githubusercontent.com/59908809/126006828-c498119a-b66d-4ce2-93b3-b90f053ca111.mp4
+https://user-images.githubusercontent.com/59908809/126007495-81f9f716-ad61-4397-a104-d2b2fe618d49.mp4
 
 ## e-greedy:
 
-https://user-images.githubusercontent.com/59908809/126007159-5620f6c1-8bd6-44a0-a195-30275fe7844a.mp4
+https://user-images.githubusercontent.com/59908809/126007501-68aa50fa-2971-4b54-a57f-11a409d64a05.mp4
